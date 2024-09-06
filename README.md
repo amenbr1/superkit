@@ -210,7 +210,7 @@ This command will run the seed file located at `cmd/scripts/seed/main.go`
 
 ## Creating views with Templ
 
-superkit uses Templ as its templating engine. Templ allows you to create type safe view components that renders fragments of HTML. In-depth information about Templ can be found here:
+**SUPERKIT** uses Templ as its templating engine. Templ allows you to create type safe view components that renders fragments of HTML. In-depth information about Templ can be found here:
 [Templ documentation](https://templ.guide)
 
 ## Validations
@@ -223,7 +223,7 @@ todo
 
 ## Create a production release
 
-superkit will compile your whole application including its assets into a single binary. To build your application for production you can run the following command:
+**SUPERKIT** will compile your whole application including its assets into a single binary. To build your application for production you can run the following command:
 
 ```bash
 make build
